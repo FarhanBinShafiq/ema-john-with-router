@@ -11,6 +11,7 @@ const Header = () => {
                 <NavLink to="shop">Shop</NavLink>
                 <NavLink to="orderreview">Order Review</NavLink>
                 <NavLink to="inventory">Manage Inventory</NavLink>
+                <NavLink to="Placeorder">Place Order</NavLink>
             </nav>
         </div>
     );
